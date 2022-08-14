@@ -21,4 +21,5 @@ demo/*.pth.tar
 # idea
 .DS_Store
 .idea
+*.onnx
 
